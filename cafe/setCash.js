@@ -13,7 +13,7 @@
                 alert("You must be in a cafe game!");
             } else {
                 reactHandler().stateNode.setState({ cafeCash: Number(parseFloat(prompt('How much cash would you like?'))) });
-
+1,296,457,911,421
 
                 alert('Added cash!');
             };
