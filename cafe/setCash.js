@@ -14,7 +14,7 @@
             } else {
                 reactHandler().stateNode.setState({ cafeCash: Number(parseFloat(prompt('How much cash would you like?'))) });
 
-
+11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
                 alert('Added cash!');
             };
 })();
